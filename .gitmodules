@@ -67,9 +67,6 @@
 [submodule "bundle/ropevv"]
 	path = bundle/ropevv
 	url = git@github.com:flycarl/rope-vim.git
-[submodule "bundle/delmitmate"]
-	path = bundle/delmitmate
-	url = git://github.com/Raimondi/delimitMate.git
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = https://github.com/tpope/vim-markdown.git
